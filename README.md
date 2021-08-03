@@ -1,1 +1,1 @@
-### Hi there 👋 This is my personal Github page!
+### Hi there 👋 This is the repository of my personal Github page!
