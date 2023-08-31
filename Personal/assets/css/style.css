@@ -142,6 +142,10 @@ h1, h2, h3, h4, h5, h6 {
     height: 250px; /* This maintains the aspect ratio */
   }
 
+  .resized-image2 {
+    width: 350px;
+    height: 350px; /* This maintains the aspect ratio */
+  }
 
 
 /*--------------------------------------------------------------
